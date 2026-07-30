@@ -41,7 +41,7 @@ npm run start
 1. Push this folder to a new GitHub repository.
 2. Go to [vercel.com/new](https://vercel.com/new) and import the repo.
 3. Framework preset: **Next.js** (auto-detected). No environment variables are required.
-4. Click **Deploy**.
+   https://accredian-enterprize-clone1.vercel.app/
 
 > Note: the lead form writes submissions to `data/leads.json` on disk. This works locally,
 > but Vercel's serverless filesystem is **read-only in production**, so on Vercel the API

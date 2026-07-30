@@ -4,7 +4,7 @@ A partial clone of [enterprise.accredian.com](https://enterprise.accredian.com/)
 Next.js App Router and Tailwind CSS as part of the Accredian assignment.
 
  Live demo: https://accredian-enterprize-clone1.vercel.app/
-  Repo:
+ Github Repo: https://github.com/GENAURA/Accredian-Enterprize-clone1
 
 ---
 

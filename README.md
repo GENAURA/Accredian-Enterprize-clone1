@@ -135,14 +135,3 @@ what I changed:
   reusability over pixel-perfect fidelity (per the assignment notes).
 - Add proper `sitemap.xml`/`robots.txt` and Open Graph image for SEO.
 
-## 7. Assignment Compliance Checklist
-
-- [x] Landing page with all major sections
-- [x] Navigation menu (desktop + mobile) & footer
-- [x] Fully responsive (mobile + desktop breakpoints)
-- [x] Reusable components (`FeatureCard`, testimonial card, stat card, etc.)
-- [x] Next.js App Router, functional components + hooks
-- [x] Tailwind CSS styling
-- [x] API integration — Next.js Route Handler (`/api/leads`) for lead capture (bonus)
-- [ ] Deployed on Vercel — _deploy and paste the live link above_
-- [x] README with setup, approach, AI usage, improvements

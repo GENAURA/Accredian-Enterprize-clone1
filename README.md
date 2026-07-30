@@ -3,8 +3,8 @@
 A partial clone of [enterprise.accredian.com](https://enterprise.accredian.com/), built with
 Next.js App Router and Tailwind CSS as part of the Accredian assignment.
 
-**Live demo:** _add your Vercel URL here after deploying_
-**Repo:** _add your GitHub URL here_
+ Live demo: https://accredian-enterprize-clone1.vercel.app/
+  Repo:
 
 ---
 
